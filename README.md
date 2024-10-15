@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Ryan! 
 
 Welcome to my GitHub where I try and make cool things using my Computer Science degree!
-Feel free to reach out to me via [E-mail](mailto:amiri.ry@northeastern.edu) or connect on [LinkedIn](https://www.linkedin.com/in/ryanamiri/)! 😁
+Feel free to reach out to me via [Email](mailto:amiri.ry@northeastern.edu) or connect on [LinkedIn](https://www.linkedin.com/in/ryanamiri/)! 😁
 
 
 ![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryankamiri&theme=react)
